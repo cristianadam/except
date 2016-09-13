@@ -22,7 +22,7 @@ CMake build options: `USE_POSIX_SIGNAL` and `USE_POSIX_SIGACTION`.
  
 Tested Compilers / Platforms
 ----------------------------
-See `Results` for more information.
+See `results` for more information.
 
 Build
 -----
