@@ -1,7 +1,7 @@
 except - small OS exceptions library
 ====================================
 
-This library will transform system exceptions – SEH on Windows, SIGNALs on POSIX, in
+This library will transform system exceptions â€“ SEH on Windows, SIGNALs on POSIX, in
 C++ exceptions.
 
 Structured Exceptions Handling (SEH)
@@ -22,7 +22,7 @@ CMake build options: `USE_POSIX_SIGNAL` and `USE_POSIX_SIGACTION`.
  
 Tested Compilers / Platforms
 ----------------------------
-See `Reports` for more information.
+See `Results` for more information.
 
 Build
 -----
