@@ -1,0 +1,5 @@
+libexcept_lib.a(except.cpp.obj):except.cpp:(.text+0x3cb): undefined reference to `__imp__Z18_set_se_translatorPFvjP19_EXCEPTION_POINTERSE'
+collect2.exe: error: ld returned 1 exit status
+make[2]: *** [CMakeFiles/except_test.dir/build.make:97: except_test.exe] Error 1
+make[1]: *** [CMakeFiles/Makefile2:68: CMakeFiles/except_test.dir/all] Error 2
+make: *** [Makefile:84: all] Error 2

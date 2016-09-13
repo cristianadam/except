@@ -1,0 +1,37 @@
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Projects/c++/exceptions/vs2015_clang_c2_se
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 13-Sep-16 21:44:38.
+Project "C:\Projects\c++\exceptions\vs2015_clang_c2_se\ALL_BUILD.vcxproj" on node 1 (default targets).
+Project "C:\Projects\c++\exceptions\vs2015_clang_c2_se\ALL_BUILD.vcxproj" (1) is building "C:\Projects\c++\exceptions\vs2015_clang_c2_se\ZERO_CHECK.vcxproj" (2) on node 1 (default targets).
+InitializeBuildStatus:
+  Creating "x64\Release\ZERO_CHECK\ZERO_CHECK.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+CustomBuild:
+  All outputs are up-to-date.
+FinalizeBuildStatus:
+  Deleting file "x64\Release\ZERO_CHECK\ZERO_CHECK.tlog\unsuccessfulbuild".
+  Touching "x64\Release\ZERO_CHECK\ZERO_CHECK.tlog\ZERO_CHECK.lastbuildstate".
+Done Building Project "C:\Projects\c++\exceptions\vs2015_clang_c2_se\ZERO_CHECK.vcxproj" (default targets).
+Project "C:\Projects\c++\exceptions\vs2015_clang_c2_se\ALL_BUILD.vcxproj" (1) is building "C:\Projects\c++\exceptions\vs2015_clang_c2_se\except_lib.vcxproj" (3) on node 1 (default targets).
+InitializeBuildStatus:
+  Touching "except_lib.dir\Release\except_lib.tlog\unsuccessfulbuild".
+CustomBuild:
+  All outputs are up-to-date.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.Cpp.Clang.targets(210,5): error : Element <ExceptionHandling> has an invalid value of "Async". [C:\Projects\c++\exceptions\vs2015_clang_c2_se\except_lib.vcxproj]
+Done Building Project "C:\Projects\c++\exceptions\vs2015_clang_c2_se\except_lib.vcxproj" (default targets) -- FAILED.
+Done Building Project "C:\Projects\c++\exceptions\vs2015_clang_c2_se\ALL_BUILD.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Projects\c++\exceptions\vs2015_clang_c2_se\ALL_BUILD.vcxproj" (default target) (1) ->
+"C:\Projects\c++\exceptions\vs2015_clang_c2_se\except_lib.vcxproj" (default target) (3) ->
+(ClCompile target) -> 
+  C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.Cpp.Clang.targets(210,5): error : Element <ExceptionHandling> has an invalid value of "Async". [C:\Projects\c++\exceptions\vs2015_clang_c2_se\except_lib.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.37

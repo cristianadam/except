@@ -1,0 +1,3 @@
+0------------------------------------
+Message: write to nullptr
+terminateHandler: called without an exception.

@@ -1,0 +1,7 @@
+0------------------------------------
+Message: read from nullptr
+~Message: read from nullptr
+Signal caught: SIGSEGV(11)
+------------------------------------0
+1------------------------------------
+Message: read from nullptr

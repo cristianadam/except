@@ -1,0 +1,50 @@
+0------------------------------------
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+------------------------------------0
+1------------------------------------
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+------------------------------------1
+2------------------------------------
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+------------------------------------2
+3------------------------------------
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+------------------------------------3
+4------------------------------------
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+------------------------------------4
+5------------------------------------
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+------------------------------------5
+6------------------------------------
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+------------------------------------6
+7------------------------------------
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+------------------------------------7
+8------------------------------------
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+------------------------------------8
+9------------------------------------
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+------------------------------------9

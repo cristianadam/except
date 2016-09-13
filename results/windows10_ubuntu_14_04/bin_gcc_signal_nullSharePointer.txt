@@ -1,0 +1,8 @@
+0------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+Signal caught: SIGSEGV(11)
+------------------------------------0
+1------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr

@@ -1,0 +1,50 @@
+0------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+Signal caught: SIGSEGV(11)
+------------------------------------0
+1------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+Signal caught: SIGSEGV(11)
+------------------------------------1
+2------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+Signal caught: SIGSEGV(11)
+------------------------------------2
+3------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+Signal caught: SIGSEGV(11)
+------------------------------------3
+4------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+Signal caught: SIGSEGV(11)
+------------------------------------4
+5------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+Signal caught: SIGSEGV(11)
+------------------------------------5
+6------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+Signal caught: SIGSEGV(11)
+------------------------------------6
+7------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+Signal caught: SIGSEGV(11)
+------------------------------------7
+8------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+Signal caught: SIGSEGV(11)
+------------------------------------8
+9------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+Signal caught: SIGSEGV(11)
+------------------------------------9

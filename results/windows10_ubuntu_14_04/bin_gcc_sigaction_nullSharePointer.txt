@@ -1,0 +1,50 @@
+0------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+------------------------------------0
+1------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+------------------------------------1
+2------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+------------------------------------2
+3------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+------------------------------------3
+4------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+------------------------------------4
+5------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+------------------------------------5
+6------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+------------------------------------6
+7------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+------------------------------------7
+8------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+------------------------------------8
+9------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+------------------------------------9

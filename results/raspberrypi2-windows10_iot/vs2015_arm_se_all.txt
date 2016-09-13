@@ -1,0 +1,160 @@
+0------------------------------------
+Message: division by zero
+OS exception: division by zero!
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+Message: out of bounds vector
+~Message: out of bounds vector
+OS exception: null pointer!
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+Message: write to nullptr
+~Message: write to nullptr
+OS exception: null pointer!
+------------------------------------0
+1------------------------------------
+Message: division by zero
+OS exception: division by zero!
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+Message: out of bounds vector
+~Message: out of bounds vector
+OS exception: null pointer!
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+Message: write to nullptr
+~Message: write to nullptr
+OS exception: null pointer!
+------------------------------------1
+2------------------------------------
+Message: division by zero
+OS exception: division by zero!
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+Message: out of bounds vector
+~Message: out of bounds vector
+OS exception: null pointer!
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+Message: write to nullptr
+~Message: write to nullptr
+OS exception: null pointer!
+------------------------------------2
+3------------------------------------
+Message: division by zero
+OS exception: division by zero!
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+Message: out of bounds vector
+~Message: out of bounds vector
+OS exception: null pointer!
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+Message: write to nullptr
+~Message: write to nullptr
+OS exception: null pointer!
+------------------------------------3
+4------------------------------------
+Message: division by zero
+OS exception: division by zero!
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+Message: out of bounds vector
+~Message: out of bounds vector
+OS exception: null pointer!
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+Message: write to nullptr
+~Message: write to nullptr
+OS exception: null pointer!
+------------------------------------4
+5------------------------------------
+Message: division by zero
+OS exception: division by zero!
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+Message: out of bounds vector
+~Message: out of bounds vector
+OS exception: null pointer!
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+Message: write to nullptr
+~Message: write to nullptr
+OS exception: null pointer!
+------------------------------------5
+6------------------------------------
+Message: division by zero
+OS exception: division by zero!
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+Message: out of bounds vector
+~Message: out of bounds vector
+OS exception: null pointer!
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+Message: write to nullptr
+~Message: write to nullptr
+OS exception: null pointer!
+------------------------------------6
+7------------------------------------
+Message: division by zero
+OS exception: division by zero!
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+Message: out of bounds vector
+~Message: out of bounds vector
+OS exception: null pointer!
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+Message: write to nullptr
+~Message: write to nullptr
+OS exception: null pointer!
+------------------------------------7
+8------------------------------------
+Message: division by zero
+OS exception: division by zero!
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+Message: out of bounds vector
+~Message: out of bounds vector
+OS exception: null pointer!
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+Message: write to nullptr
+~Message: write to nullptr
+OS exception: null pointer!
+------------------------------------8
+9------------------------------------
+Message: division by zero
+OS exception: division by zero!
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+OS exception: null pointer!
+Message: out of bounds vector
+~Message: out of bounds vector
+OS exception: null pointer!
+Message: read from nullptr
+~Message: read from nullptr
+OS exception: null pointer!
+Message: write to nullptr
+~Message: write to nullptr
+OS exception: null pointer!
+------------------------------------9

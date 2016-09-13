@@ -1,0 +1,5 @@
+Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24213.1 for ARM
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '--version'
+cl : Command line error D8003 : missing source filename

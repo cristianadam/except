@@ -1,0 +1,50 @@
+0------------------------------------
+Message: read from nullptr
+2424869
+~Message: read from nullptr
+------------------------------------0
+1------------------------------------
+Message: read from nullptr
+196645
+~Message: read from nullptr
+------------------------------------1
+2------------------------------------
+Message: read from nullptr
+589861
+~Message: read from nullptr
+------------------------------------2
+3------------------------------------
+Message: read from nullptr
+1638437
+~Message: read from nullptr
+------------------------------------3
+4------------------------------------
+Message: read from nullptr
+327717
+~Message: read from nullptr
+------------------------------------4
+5------------------------------------
+Message: read from nullptr
+589861
+~Message: read from nullptr
+------------------------------------5
+6------------------------------------
+Message: read from nullptr
+2162725
+~Message: read from nullptr
+------------------------------------6
+7------------------------------------
+Message: read from nullptr
+1441829
+~Message: read from nullptr
+------------------------------------7
+8------------------------------------
+Message: read from nullptr
+589861
+~Message: read from nullptr
+------------------------------------8
+9------------------------------------
+Message: read from nullptr
+1376293
+~Message: read from nullptr
+------------------------------------9

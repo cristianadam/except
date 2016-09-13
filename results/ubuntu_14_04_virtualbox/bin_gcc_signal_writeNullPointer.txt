@@ -1,0 +1,7 @@
+0------------------------------------
+Message: write to nullptr
+~Message: write to nullptr
+Signal caught: SIGSEGV(11)
+------------------------------------0
+1------------------------------------
+Message: write to nullptr

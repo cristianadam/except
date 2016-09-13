@@ -1,0 +1,9 @@
+0------------------------------------
+Message: division by zero
+~Message: division by zero
+Signal caught: SIGFPE(8)
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+Signal caught: SIGSEGV(11)
+Message: out of bounds vector
+~Message: out of bounds vector

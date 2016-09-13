@@ -1,0 +1,3 @@
+#cmakedefine USE_POSIX_SIGNAL
+#cmakedefine USE_POSIX_SIGACTION
+#cmakedefine USE_WINDOWS_SE

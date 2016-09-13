@@ -1,0 +1,8 @@
+0------------------------------------
+Message: out of bounds vector
+~Message: out of bounds vector
+Signal caught: SIGSEGV(11)
+------------------------------------0
+1------------------------------------
+Message: out of bounds vector
+~Message: out of bounds vector

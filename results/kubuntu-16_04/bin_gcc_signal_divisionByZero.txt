@@ -1,0 +1,7 @@
+0------------------------------------
+Message: division by zero
+~Message: division by zero
+Signal caught: SIGFPE(8)
+------------------------------------0
+1------------------------------------
+Message: division by zero

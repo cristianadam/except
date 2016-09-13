@@ -1,0 +1,4 @@
+0------------------------------------
+Message: reading empty shared_ptr
+~Message: reading empty shared_ptr
+terminateHandler: called without an exception.
