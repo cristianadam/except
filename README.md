@@ -4,6 +4,8 @@ except - small OS exceptions library
 This library will transform system exceptions – SEH on Windows, SIGNALs on POSIX, in
 C++ exceptions.
 
+This repository contains code for the [NullPointerException in C++](https://cristianadam.eu/20160914/nullpointerexception-in-c-plus-plus/) article.
+
 Structured Exceptions Handling (SEH)
 ------------------------------------
 
