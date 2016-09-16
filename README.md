@@ -35,6 +35,6 @@ Library uses CMake. Have a look at `build.sh` and `build.cmd` for adjustments.
 Note
 ----
 
-Since this code was for testing purposes, one should not use it as it is in production. Make sure you select only the exeptions you can handle (null pointer, division by zero) and for the rest just call std::abort.
+Since this code was done for testing purposes, you should not use it as it is in production. Make sure to select only the exeptions you can handle (null pointer, division by zero), and for the rest just call std::abort.
 
-One should be careful in allocating in POSIX signals, std::ostringstream will allocate memory.
+Also you should be careful about allocations in POSIX signals, std::ostringstream will allocate memory. See the list of POSIX [async-sygnal-safe](http://pubs.opengroup.org/onlinepubs/9699919799/functions/V2_chap02.html#tag_15_04) functions.
